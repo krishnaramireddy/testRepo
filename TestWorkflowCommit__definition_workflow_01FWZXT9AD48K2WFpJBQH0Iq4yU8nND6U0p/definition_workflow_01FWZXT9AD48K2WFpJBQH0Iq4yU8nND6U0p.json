@@ -39,7 +39,7 @@
           "input_json": "{\"key\":\"ll\"}",
           "jsonpath_queries": [
             {
-              "jsonpath_query": "key",
+              "jsonpath_query": "$.key",
               "jsonpath_query_name": "Key",
               "jsonpath_query_type": "string"
             }
